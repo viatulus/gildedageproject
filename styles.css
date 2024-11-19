@@ -60,3 +60,14 @@ body{
   border-color: transparent transparent transparent burlywood;
 }
 
+.about-header {
+  content-align: center;
+  padding: 40 px;
+  background-color: burlywood;
+}
+
+.description {
+  content-align: center;
+  background-color: burlywood;
+  border: black 20px;
+}
