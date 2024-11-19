@@ -18,3 +18,7 @@ header {
 .timeline-left {
   border-right: 10px dashed black;
 }
+
+.timeline {
+  margin-left: 50px
+  
