@@ -8,6 +8,7 @@ header {
 
 .timeline-left {
   float: left;
+  width:50%;
 }
 
 .description {
