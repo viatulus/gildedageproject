@@ -19,6 +19,7 @@ header {
 .timeline-left {
   border-right: 10px dashed black;
   margin-right: 5px;
+  padding-left: 10px;
 }
 
 .timeline ul li {
